@@ -1,5 +1,5 @@
 export const environment = {
     production: true,
-    apiUrl: 'https://kanbanangnest.vercel.app'
+    apiUrl: 'https://api.seu-dominio.com'
   };
   

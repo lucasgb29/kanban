@@ -1,5 +1,5 @@
 export const environment = {
     production: false,
-    apiUrl: 'https://kanbanangnest.vercel.app'
+    apiUrl: 'http://localhost:3000'
   };
   
